@@ -2,7 +2,7 @@
 #include "graphics.h"
 #include<math.h>
 
-#define PI 22/(float)7
+#define const double PI = 22.0
 
 float x =0, y = 0, z= 0;
 
